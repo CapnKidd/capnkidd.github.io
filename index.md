@@ -2,8 +2,6 @@
 layout: default
 ---
 
-# Kenny's Cybersecurity Portfolio
-
 Welcome to my GitHub portfolio! Here, I showcase my cybersecurity projects, research, and certifications. My focus is on securing systems, ethical hacking, and IoT/OT security.
 
 ---
