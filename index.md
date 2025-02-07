@@ -31,31 +31,25 @@ This portfolio highlights my hands-on projects, certifications, and future learn
 ## 🎓 Certifications
 
 ### ✅ Current Certifications:
-- **CompTIA Security+**
+- **CompTIA A+**
 - **CompTIA Network+**
-- *(Add more as needed!)*
+- **CompTIA Security+**
+- **CompTIA CySA+**
+- **CompTIA Pentest+**
 
 ### 🎯 Planned Certifications:
-- **Certified Ethical Hacker (CEH)**
-- **Offensive Security Certified Professional (OSCP)**
-- *(List other goals!)*
-
----
-
-## 📚 Blog & Research
-
-I occasionally write about cybersecurity topics and findings from my projects.  
-- [Post Title 1](#) – A brief summary or topic.  
-- [Post Title 2](#) – Another interesting security discussion.
+- **CompTIA CASP+**
+- **Microsoft Azure Security Engineer Associate (AZ-500)**
+- **Red Hat Certified System Administrator (RHCSA)**
+- **Certified Information Systems Security Professional (CISSP)**
 
 ---
 
 ## 📬 Contact
 
-Feel free to connect with me on LinkedIn or GitHub!  
-- **GitHub:** [github.com/yourusername](#)  
-- **LinkedIn:** [linkedin.com/in/yourprofile](#)  
-- **Email:** your.email@example.com
+Feel free to connect with me on LinkedIn or through email!
+- **LinkedIn:** [https://www.linkedin.com/in/kenneth-cutcher/](#)  
+- **Email:** kennycutcher@gmail.com
 
 ---
 
