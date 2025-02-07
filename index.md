@@ -16,7 +16,7 @@ This portfolio highlights my hands-on projects, certifications, and future learn
 
 ## 🛠️ Featured Projects
 
-### 🔹 [Project Name 1](#)
+### 🔹 [Project Name 1](project1.md)
 **Description:** Brief overview of the project, the technologies used, and the cybersecurity concepts applied.  
 **Skills:** List relevant skills such as penetration testing, malware analysis, SIEM, etc.
 
