@@ -2,122 +2,63 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
+# Kenny's Cybersecurity Portfolio
 
-[Link to another page](./another-page.html).
+Welcome to my GitHub portfolio! Here, I showcase my cybersecurity projects, research, and certifications. My focus is on securing systems, ethical hacking, and IoT/OT security.
 
-There should be whitespace between paragraphs.
+---
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+## 🔐 About Me
 
-# Header 1
+I have a Master’s degree in Cybersecurity and Information Assurance from Western Governors University. My interests include penetration testing, network security, and securing industrial environments.
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+This portfolio highlights my hands-on projects, certifications, and future learning goals.
 
-## Header 2
+---
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+## 🛠️ Featured Projects
 
-### Header 3
+### 🔹 [Project Name 1](#)
+**Description:** Brief overview of the project, the technologies used, and the cybersecurity concepts applied.  
+**Skills:** List relevant skills such as penetration testing, malware analysis, SIEM, etc.
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+### 🔹 [Project Name 2](#)
+**Description:** Another project showcasing your expertise.  
+**Skills:** Include skills learned or demonstrated in the project.
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+*(Add more projects as needed!)*
 
-#### Header 4
+---
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+## 🎓 Certifications
 
-##### Header 5
+### ✅ Current Certifications:
+- **CompTIA Security+**
+- **CompTIA Network+**
+- *(Add more as needed!)*
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+### 🎯 Planned Certifications:
+- **Certified Ethical Hacker (CEH)**
+- **Offensive Security Certified Professional (OSCP)**
+- *(List other goals!)*
 
-###### Header 6
+---
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+## 📚 Blog & Research
 
-### There's a horizontal rule below this.
+I occasionally write about cybersecurity topics and findings from my projects.  
+- [Post Title 1](#) – A brief summary or topic.  
+- [Post Title 2](#) – Another interesting security discussion.
 
-* * *
+---
 
-### Here is an unordered list:
+## 📬 Contact
 
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
+Feel free to connect with me on LinkedIn or GitHub!  
+- **GitHub:** [github.com/yourusername](#)  
+- **LinkedIn:** [linkedin.com/in/yourprofile](#)  
+- **Email:** your.email@example.com
 
-### And an ordered list:
+---
 
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+Thanks for stopping by! Stay secure. 🔒
